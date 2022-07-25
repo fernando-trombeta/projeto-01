@@ -7,7 +7,7 @@ body {
 
 #hero {
   width: 592px;
-  margin: 0 auto 72px; /* 0 = margin-top  auto = margin-left e right (laterais)  72px = margin-bottom*/
+  margin: 0 auto 72px;
 }
 
 #hero img {
